@@ -39,7 +39,7 @@ public class Lesson02Program {
         numberAddress = 17;
 
         // Output for order2
-        System.out.println(order+ " " + charN + charO + " " + charNum + " "+ client
+        System.out.println(order+ " " + charN + charO + " " + (char)charNum2 + " "+ client
                 + " " + name1 + point); // Line 1 Order
         System.out.println(product + " " + nameProd1 + coma); // line 2 product
         System.out.println(price + " " + eur + " " + priceFloat + point); // line 4 Price
